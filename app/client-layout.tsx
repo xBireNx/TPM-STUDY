@@ -4,11 +4,13 @@ import { useState, useCallback, useEffect } from 'react';
 import { useRouter, usePathname } from 'next/navigation';
 import Sidebar from '@/components/Sidebar';
 import TopBar from '@/components/TopBar';
+import ReadingProgress from '@/components/ReadingProgress';
+import ScrollToTop from '@/components/ScrollToTop';
 import { DOCS } from '@/lib/docs';
 
 /**
- * ClientLayout provides the sidebar, top bar, and navigation state
- * that wraps around all pages in the app.
+ * ClientLayout provides the sidebar, top bar, ambient background,
+ * reading progress bar, scroll-to-top button, and navigation state.
  */
 export default function ClientLayout({ children }: { children: React.ReactNode }) {
   const [sidebarOpen, setSidebarOpen] = useState(false);
@@ -49,8 +51,20 @@ export default function ClientLayout({ children }: { children: React.ReactNode }
   const currentDoc = currentSlug ? DOCS.find((d) => d.id === currentSlug) : null;
   const topBarTitle = currentDoc ? currentDoc.title : 'TPM Study Library';
 
+  const isDocPage = pathname?.startsWith('/docs/');
+
   return (
     <div className="app-shell">
+      {/* Ambient background orbs */}
+      <div className="ambient-bg" aria-hidden="true">
+        <div className="ambient-orb ambient-orb-1" />
+        <div className="ambient-orb ambient-orb-2" />
+        <div className="ambient-orb ambient-orb-3" />
+      </div>
+
+      {/* Reading progress bar (only on doc pages) */}
+      {isDocPage && <ReadingProgress />}
+
       <Sidebar
         currentSlug={currentSlug}
         onNavigate={handleNavigate}
@@ -63,6 +77,9 @@ export default function ClientLayout({ children }: { children: React.ReactNode }
           <div className="content">{children}</div>
         </div>
       </main>
+
+      {/* Scroll to top button */}
+      <ScrollToTop />
     </div>
   );
 }

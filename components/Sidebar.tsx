@@ -181,7 +181,9 @@ export default function Sidebar({ currentSlug, onNavigate, onClose, isOpen }: Si
       <aside className={`sidebar ${isOpen ? 'open' : ''}`}>
         <div className="sidebar-header">
           <div className="sidebar-logo">
-            <span className="logo-icon">📚</span>
+            <div className="logo-icon-wrapper">
+              <span>📚</span>
+            </div>
             <div className="logo-text">
               <span className="logo-title">TPM Study</span>
               <span className="logo-subtitle">Interview Prep Library</span>

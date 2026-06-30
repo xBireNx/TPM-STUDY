@@ -3,6 +3,7 @@ import { DOCS, getDocBySlug, getAllSlugs } from '@/lib/docs';
 import { readMarkdownFile, extractTitle, countLines } from '@/lib/markdown';
 import { notFound } from 'next/navigation';
 import DocumentClient from './document-client';
+import FloatingToc from '@/components/FloatingToc';
 import type { Metadata } from 'next';
 
 /**
@@ -47,6 +48,9 @@ export default async function DocPage({ params }: { params: { slug: string } }) 
 
   return (
     <div className="doc-content">
+      {/* Floating Table of Contents (renders on the side on wide screens) */}
+      <FloatingToc />
+
       {/* Breadcrumb navigation for context */}
       <nav className="breadcrumb" aria-label="Breadcrumb">
         <Link href="/" className="breadcrumb-link">Home</Link>
