@@ -5,8 +5,10 @@ import { useRouter, usePathname } from 'next/navigation';
 import Sidebar from '@/components/Sidebar';
 import TopBar from '@/components/TopBar';
 import ReadingProgress from '@/components/ReadingProgress';
+import NavigationProgress from '@/components/NavigationProgress';
 import ScrollToTop from '@/components/ScrollToTop';
 import { DOCS } from '@/lib/docs';
+import { triggerNavProgress } from '@/lib/navigation';
 
 /**
  * ClientLayout provides the sidebar, top bar, ambient background,
@@ -39,6 +41,7 @@ export default function ClientLayout({ children }: { children: React.ReactNode }
 
   const handleNavigate = useCallback(
     (slug: string) => {
+      triggerNavProgress();
       router.push(`/docs/${slug}`);
     },
     [router]
@@ -61,6 +64,9 @@ export default function ClientLayout({ children }: { children: React.ReactNode }
         <div className="ambient-orb ambient-orb-2" />
         <div className="ambient-orb ambient-orb-3" />
       </div>
+
+      {/* Navigation progress bar — shows on all route transitions */}
+      <NavigationProgress />
 
       {/* Reading progress bar (only on doc pages) */}
       {isDocPage && <ReadingProgress />}

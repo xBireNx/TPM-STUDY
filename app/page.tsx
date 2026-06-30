@@ -4,6 +4,7 @@ import { useRouter } from 'next/navigation';
 import { motion } from 'framer-motion';
 import { DOCS } from '@/lib/docs';
 import AnimatedCounter from '@/components/AnimatedCounter';
+import { triggerNavProgress } from '@/lib/navigation';
 
 const containerVariants = {
   hidden: { opacity: 0 },
@@ -80,7 +81,7 @@ export default function HomePage() {
             <motion.div
               key={item.slug}
               className="quick-start-card"
-              onClick={() => router.push(`/docs/${item.slug}`)}
+              onClick={() => { triggerNavProgress(); router.push(`/docs/${item.slug}`); }}
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.3 + i * 0.06, duration: 0.35 }}
