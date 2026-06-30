@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TPM Study Library</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
+</head>
+<body>
+  <!-- Mobile overlay -->
+  <div id="sidebar-overlay" class="sidebar-overlay"></div>
+
+  <!-- Sidebar -->
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-header">
+      <div class="sidebar-logo">
+        <span class="logo-icon">📚</span>
+        <div class="logo-text">
+          <span class="logo-title">TPM Study</span>
+          <span class="logo-subtitle">Interview Prep Library</span>
+        </div>
+      </div>
+      <button id="sidebar-close" class="sidebar-close" aria-label="Close sidebar">&times;</button>
+    </div>
+
+    <div class="sidebar-search">
+      <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input type="text" id="search-input" class="search-input" placeholder="Search across all docs..." autocomplete="off">
+      <kbd class="search-kbd">/</kbd>
+    </div>
+
+    <nav id="sidebar-nav" class="sidebar-nav">
+      <!-- Groups rendered by JS -->
+    </nav>
+
+    <div class="sidebar-footer">
+      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
+        <svg class="theme-icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+        <svg class="theme-icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      </button>
+      <span class="footer-version">v1.0 &middot; 14 docs</span>
+    </div>
+  </aside>
+
+  <!-- Main Content -->
+  <main id="main" class="main">
+    <!-- Top bar -->
+    <header class="top-bar">
+      <button id="sidebar-toggle" class="sidebar-toggle" aria-label="Toggle sidebar">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+      <div class="top-bar-title">
+        <span id="doc-title" class="doc-title">TPM Study Library</span>
+      </div>
+      <div class="top-bar-spacer"></div>
+    </header>
+
+    <!-- Content area -->
+    <div class="content-wrapper">
+      <div id="content" class="content">
+        <!-- Welcome screen -->
+        <div id="welcome" class="welcome">
+          <div class="welcome-icon">📚</div>
+          <h1 class="welcome-title">TPM Interview Prep Library</h1>
+          <p class="welcome-subtitle">Your complete offline TPM study library — now on the web.</p>
+          <div class="welcome-stats">
+            <div class="stat-card">
+              <span class="stat-number">14</span>
+              <span class="stat-label">Documents</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-number">24</span>
+              <span class="stat-label">Week Plan</span>
+            </div>
+            <div class="stat-card">
+              <span class="stat-number">320+</span>
+              <span class="stat-label">Questions</span>
+            </div>
+          </div>
+          <div id="file-protocol-banner" class="file-protocol-banner" style="display:none;">
+            <span class="file-protocol-icon">⚠️</span>
+            <div class="file-protocol-text">
+              <strong>Cannot load files directly</strong>
+              <p>You're opening this page from your local filesystem. To view your study materials, either:</p>
+              <ol>
+                <li>Serve from this folder:
+                <code style="display:block;margin:4px 0;padding:6px 8px;background:var(--md-code-bg);border-radius:4px;">cd tpm-study && python3 -m http.server 8080</code>
+                Then open <code>http://localhost:8080/</code></li>
+              <li>Push this <strong>tpm-study/</strong> folder as your GitHub repo:
+                <code style="display:block;margin:4px 0;padding:6px 8px;background:var(--md-code-bg);border-radius:4px;">cd tpm-study
+git init && git add . && git commit -m "first commit"
+git remote add origin https://github.com/YOUR_USER/YOUR_REPO.git
+git push -u origin main</code>
+                Then enable GitHub Pages: repo Settings → Pages → Deploy from <strong>main branch, root /</strong></li>
+              </ol>
+            </div>
+          </div>
+          <p class="welcome-hint" id="search-status">Select a document from the sidebar to begin studying.</p>
+          <div class="welcome-features">
+            <div class="feature-item"><span class="feature-icon">⌨️</span> Press <kbd>/</kbd> to search across all documents</div>
+            <div class="feature-item"><span class="feature-icon">🌓</span> Toggle dark/light theme in sidebar</div>
+            <div class="feature-item"><span class="feature-icon">📱</span> Works on desktop &amp; mobile</div>
+          </div>
+        </div>
+
+        <!-- Document content -->
+        <div id="doc-content" class="doc-content" style="display:none;">
+          <div class="doc-header">
+            <h1 id="doc-heading" class="doc-heading"></h1>
+            <div id="doc-meta" class="doc-meta"></div>
+          </div>
+          <div id="doc-body" class="doc-body markdown-body"></div>
+        </div>
+
+        <!-- Loading -->
+        <div id="loading" class="loading" style="display:none;">
+          <div class="loading-spinner"></div>
+          <span>Loading document...</span>
+        </div>
+
+        <!-- Error -->
+        <div id="error" class="error" style="display:none;">
+          <div class="error-icon">⚠️</div>
+          <h2>Failed to load document</h2>
+          <p id="error-message">An unexpected error occurred.</p>
+          <button id="error-retry" class="btn">Retry</button>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked@15.0.4/marked.min.js"></script>
+  <script src="script.js"></script>
+
+</body>
+</html>
