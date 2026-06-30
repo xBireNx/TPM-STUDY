@@ -1,7 +1,7 @@
 # 🛠️ TPM Tools & Artifacts: A Comprehensive Field Guide
 
-> **Audience:** TPMs new to the role who need both foundational explanations and practical depth on the tools and artifacts they'll use daily  
-> **Purpose:** Build mastery in 6 essential TPM tools and artifacts through structured guidance, core proficiencies, and detailed case studies  
+> **Audience:** TPMs new to the role who need both foundational explanations and practical depth on the tools and artifacts they'll use daily
+> **Purpose:** Build mastery in 6 essential TPM tools and artifacts through structured guidance, core proficiencies, and detailed case studies
 > **Read time per section:** ~15–20 minutes | **Total:** ~90–120 minutes
 
 ---
@@ -139,10 +139,10 @@ Standard JIRA doesn't know about your program's specific data needs. The TPM sho
 
 ### Program Context
 
-**Company:** FinovaPay - a payments processing company  
-**Program:** "Payment Platform Modernization" - migrating from a monolithic payment system to a microservices-based architecture  
-**Timeline:** 9 months (3 quarters)  
-**Teams involved:** 4 engineering teams (PayCore, PayFront, PayInfra, PayData) + QA + Product + Security  
+**Company:** FinovaPay - a payments processing company
+**Program:** "Payment Platform Modernization" - migrating from a monolithic payment system to a microservices-based architecture
+**Timeline:** 9 months (3 quarters)
+**Teams involved:** 4 engineering teams (PayCore, PayFront, PayInfra, PayData) + QA + Product + Security
 **JIRA setup:** Single JIRA project (`PAYMOD`) with separate boards per team, rolled up to a program-level dashboard
 
 ### The Challenge
@@ -401,10 +401,10 @@ Confluence is an async-first tool. Your audience may read your document hours, d
 
 ### Program Context
 
-**Company:** HealthBridge - a healthcare technology company  
-**Program:** "Patient Portal 2.0" - a complete redesign of the patient-facing web portal  
-**Timeline:** 6 months  
-**Teams involved:** 3 engineering teams (Frontend, Backend, Mobile) + Product + Clinical Ops + Legal/Compliance + QA  
+**Company:** HealthBridge - a healthcare technology company
+**Program:** "Patient Portal 2.0" - a complete redesign of the patient-facing web portal
+**Timeline:** 6 months
+**Teams involved:** 3 engineering teams (Frontend, Backend, Mobile) + Product + Clinical Ops + Legal/Compliance + QA
 **Confluence setup:** A single program space with unstructured pages
 
 ### The Challenge
@@ -728,10 +728,10 @@ A Miro board is a communication artifact, not just a working document. Consider 
 
 ### Program Context
 
-**Company:** QuickCart - an e-commerce logistics platform  
-**Program:** "Shipment Tracking Overhaul" - replacing a legacy tracking system with a real-time GPS-based system  
-**Timeline:** 4 months  
-**Teams involved:** 5 teams (Mobile App, Backend API, Data Pipeline, Dispatch Ops, Customer Support Systems) + 2 external vendors (GPS hardware provider, SMS notification gateway)  
+**Company:** QuickCart - an e-commerce logistics platform
+**Program:** "Shipment Tracking Overhaul" - replacing a legacy tracking system with a real-time GPS-based system
+**Timeline:** 4 months
+**Teams involved:** 5 teams (Mobile App, Backend API, Data Pipeline, Dispatch Ops, Customer Support Systems) + 2 external vendors (GPS hardware provider, SMS notification gateway)
 **Session type:** Dependency mapping workshop using Miro
 
 ### The Challenge
@@ -933,10 +933,10 @@ The charter is only valuable if stakeholders have committed to it. Sign-off mean
 
 ### Program Context
 
-**Company:** SecureBank - a regional bank  
-**Program:** "Mobile Authentication Overhaul" - replacing SMS-based two-factor authentication with biometric + push notification authentication  
-**Timeline:** 6 months  
-**Stakeholders:** Product, Engineering (Mobile, Backend, Security), Compliance, Fraud Prevention, Customer Support, Marketing  
+**Company:** SecureBank - a regional bank
+**Program:** "Mobile Authentication Overhaul" - replacing SMS-based two-factor authentication with biometric + push notification authentication
+**Timeline:** 6 months
+**Stakeholders:** Product, Engineering (Mobile, Backend, Security), Compliance, Fraud Prevention, Customer Support, Marketing
 **Situation:** The previous TPM had left after 3 weeks, partly because stakeholders couldn't agree on scope. A new TPM, Priya, was asked to restart the program with a proper charter.
 
 ### The Challenge
@@ -1189,10 +1189,10 @@ The same program has different status needs depending on the audience:
 
 ### Program Context
 
-**Company:** DataStream - a cloud data warehousing company  
-**Program:** "Query Performance Initiative" - a 6-month program to improve query performance by 3x across the product  
-**Timeline:** 6 months (3 months completed)  
-**Audience:** Monthly steering committee (VP Engineering, VP Product, CTO, Program Sponsor)  
+**Company:** DataStream - a cloud data warehousing company
+**Program:** "Query Performance Initiative" - a 6-month program to improve query performance by 3x across the product
+**Timeline:** 6 months (3 months completed)
+**Audience:** Monthly steering committee (VP Engineering, VP Product, CTO, Program Sponsor)
 **Situation:** The TPM, Raj, had been presenting detailed, text-heavy status decks (15+ slides, 30+ data points per slide). The steering committee was losing attention. Decisions weren't being made. Raj needed to redesign his status deck from scratch.
 
 ### The Challenge
@@ -1472,10 +1472,10 @@ All three are valuable. TPMs should have access to all three types for their pro
 
 ### Program Context
 
-**Company:** CloudServe - a SaaS company providing cloud infrastructure management tools  
-**Program:** "Multi-Region Deployment" - enabling the product to run in 3 additional geographic regions (EU, APAC, Middle East)  
-**Timeline:** 8 months  
-**Teams:** Infrastructure, Platform Engineering, Security, Compliance, Customer Support, SRE  
+**Company:** CloudServe - a SaaS company providing cloud infrastructure management tools
+**Program:** "Multi-Region Deployment" - enabling the product to run in 3 additional geographic regions (EU, APAC, Middle East)
+**Timeline:** 8 months
+**Teams:** Infrastructure, Platform Engineering, Security, Compliance, Customer Support, SRE
 **Situation:** The first region launch (EU) was rocky. The team discovered during the launch that no one had documented the deployment procedure. Steps were forgotten, communication was unclear, and the launch took 6 hours instead of the planned 2 hours. The program had 2 more region launches scheduled in the next 4 months.
 
 ### The Challenge

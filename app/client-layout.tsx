@@ -65,6 +65,10 @@ export default function ClientLayout({ children }: { children: React.ReactNode }
         <div className="ambient-orb ambient-orb-3" />
       </div>
 
+      {/* Corner glow accents */}
+      <div className="glow-corner glow-corner--tl" aria-hidden="true" />
+      <div className="glow-corner glow-corner--br" aria-hidden="true" />
+
       {/* Navigation progress bar — shows on all route transitions */}
       <NavigationProgress />
 

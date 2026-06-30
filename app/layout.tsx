@@ -1,6 +1,8 @@
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
+// @ts-ignore: global CSS import has no ambient type declarations
 import 'highlight.js/styles/github-dark.css';
+// @ts-ignore: global CSS import has no ambient type declarations
 import './globals.css';
 import ClientLayout from './client-layout';
 
@@ -44,6 +46,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
       </head>
       <body className={inter.className}>
+        {/* Subtle film grain / noise texture overlay */}
+        <div className="noise-overlay" aria-hidden="true" />
         <ClientLayout>{children}</ClientLayout>
       </body>
     </html>

@@ -1,6 +1,6 @@
 # 🚀 TPM Transition Master Document - Biren
-> Last updated: June 2026 (v5 - aligned with Career Snap) | Target: TPM by Month 5 → ₹30+ LPA by Month 18–24 → Director of Programs by Month 60  
-> **This document contains:** Career roadmap + Interview prep + Salary strategy + TPM Toolkit (6 templates) + Program Portfolio (Sally & CDL)  
+> Last updated: June 2026 (v5 - aligned with Career Snap) | Target: TPM by Month 5 → ₹30+ LPA by Month 18–24 → Director of Programs by Month 60
+> **This document contains:** Career roadmap + Interview prep + Salary strategy + TPM Toolkit (6 templates) + Program Portfolio (Sally & CDL)
 > **Primary track:** SWE → TPM → Senior TPM → Principal TPM → Group TPM → Delivery Manager → Director of Programs/Delivery
 
 ---
@@ -10,7 +10,7 @@
 ### PART I - Career Transition Strategy
 1. [Personal Profile Summary](#profile)
 2. [Phase 1 - TPM Foundation (Months 1–3)](#phase1)
-   - [⚡ Internal TPM Conversion Track - Start This Monday](#conversion)
+    - [⚡ Internal TPM Conversion Track - Start This Monday](#conversion)
 3. [LinkedIn Strategy (Complete)](#linkedin)
 4. [Resume Strategy (Complete)](#resume)
 5. [Networking & Cold Outreach](#networking)
@@ -293,13 +293,13 @@ Keywords recruiters search: Technical Program Manager, TPM, Agile, Scrum, Cross-
 ### Step 3: About Section
 
 ```
-I'm a Senior Software Engineer with 4.5 years of experience at Relevance Lab, 
+I'm a Senior Software Engineer with 4.5 years of experience at Relevance Lab,
 actively transitioning into Technical Program Management.
 
-Over my engineering career, I've naturally gravitated toward coordination, 
-delivery ownership, and cross-functional leadership - not just code. I've 
-driven two significant programs end-to-end: Sally (enterprise AI assistant) and 
-CDL (GenAI data lineage platform), coordinating multiple teams, managing 
+Over my engineering career, I've naturally gravitated toward coordination,
+delivery ownership, and cross-functional leadership - not just code. I've
+driven two significant programs end-to-end: Sally (enterprise AI assistant) and
+CDL (GenAI data lineage platform), coordinating multiple teams, managing
 dependencies, and owning delivery outcomes on both.
 
 My strengths:
@@ -309,10 +309,10 @@ My strengths:
 → Technical depth (React, TypeScript, Python, FastAPI, Neo4j) - I understand what engineers build
 → Leadership - mentored junior developers from onboarding to independence
 
-Currently pursuing an MBA (3rd semester), which is strengthening my business 
+Currently pursuing an MBA (3rd semester), which is strengthening my business
 acumen and strategic thinking.
 
-I'm looking for a TPM role where I can own program delivery, lead cross-functional 
+I'm looking for a TPM role where I can own program delivery, lead cross-functional
 initiatives, and grow toward a Technical Director / VP track.
 
 Open to: India (any city) | Global remote
@@ -376,9 +376,9 @@ Add 2–3 items:
 
 **Template to send:**
 ```
-Hi [Name], I'm transitioning into TPM roles and am updating my LinkedIn profile. 
-Would you be comfortable writing a short recommendation highlighting my [coordination / 
-mentoring / leadership] skills from our time at Relevance Lab? 
+Hi [Name], I'm transitioning into TPM roles and am updating my LinkedIn profile.
+Would you be comfortable writing a short recommendation highlighting my [coordination /
+mentoring / leadership] skills from our time at Relevance Lab?
 Even 2–3 sentences would mean a lot. Happy to return the favor. Thanks!
 ```
 
@@ -413,11 +413,11 @@ Even 2–3 sentences would mean a lot. Happy to return the favor. Thanks!
 ```
 Hi [Name],
 
-I'm a Senior Software Engineer with 4.5 years of experience transitioning into TPM roles. 
+I'm a Senior Software Engineer with 4.5 years of experience transitioning into TPM roles.
 I've delivered two end-to-end AI/GenAI programs (enterprise AI assistant + data lineage platform)
 as the cross-functional delivery coordinator, and I'm actively targeting TPM opportunities.
 
-I noticed you recruit for technical roles at [Company]. Would you be open to a quick 
+I noticed you recruit for technical roles at [Company]. Would you be open to a quick
 conversation about any TPM openings, or share who I should connect with?
 
 Thank you - Biren
@@ -457,11 +457,11 @@ Conflict resolution, Escalation management, Executive communication
 [Phone] | [Email] | [LinkedIn URL] | [Location - Bihar, IN | Open to relocate]
 
 SUMMARY
-Senior Software Engineer with 4.5 years of experience, transitioning to Technical Program 
-Management. Delivered two end-to-end AI/GenAI programs (Sally - enterprise AI assistant; 
-CDL - GenAI data lineage platform) as cross-functional delivery coordinator across multiple 
-teams. Strong background in stakeholder management, dependency tracking, and delivery ownership. 
-Proven leadership: mentored junior developers, owned program continuity during management absence. 
+Senior Software Engineer with 4.5 years of experience, transitioning to Technical Program
+Management. Delivered two end-to-end AI/GenAI programs (Sally - enterprise AI assistant;
+CDL - GenAI data lineage platform) as cross-functional delivery coordinator across multiple
+teams. Strong background in stakeholder management, dependency tracking, and delivery ownership.
+Proven leadership: mentored junior developers, owned program continuity during management absence.
 MBA candidate (3rd semester). Seeking TPM role to own complex technical programs.
 
 CORE COMPETENCIES
@@ -525,7 +525,7 @@ PROJECTS / PORTFOLIO  (optional - add if space allows)
 - Goal: 5 messages/day for 4 weeks = ~140 connections
 
 **Priority 2: Engineers who became TPMs**
-- Search: `"Former Software Engineer" "Technical Program Manager"` 
+- Search: `"Former Software Engineer" "Technical Program Manager"`
 - These people understand your exact journey - highest response rate
 
 **Priority 3: Recruiters at target companies**
@@ -540,11 +540,11 @@ PROJECTS / PORTFOLIO  (optional - add if space allows)
 ```
 Hi [Name],
 
-I noticed your journey from [engineering/similar background] to TPM at [Company] - 
-that's exactly the path I'm working toward. I'm a software engineer with 4.5 years 
+I noticed your journey from [engineering/similar background] to TPM at [Company] -
+that's exactly the path I'm working toward. I'm a software engineer with 4.5 years
 experience and strong cross-team coordination skills.
 
-Would you have 10 minutes for a virtual coffee? No ask, just curious about your 
+Would you have 10 minutes for a virtual coffee? No ask, just curious about your
 transition story and any advice you'd share.
 
 Thanks - Biren
@@ -554,21 +554,21 @@ Thanks - Biren
 ```
 Hi [Name],
 
-Your post on [specific topic] really clicked for me - especially the point about 
+Your post on [specific topic] really clicked for me - especially the point about
 [specific thing]. I'm transitioning from SWE to TPM and that framing helped.
 
 Would love to connect and occasionally learn from your perspective if that's okay.
 
- -  Biren
+  -  Biren
 ```
 
 **Template C - For recruiters:**
 ```
 Hi [Name],
 
-I'm a software engineer with 4.5 years of experience actively transitioning into 
-Technical Program Management. I've been building coordination, stakeholder management, 
-and delivery ownership experience at Relevance Lab and would love to explore TPM 
+I'm a software engineer with 4.5 years of experience actively transitioning into
+Technical Program Management. I've been building coordination, stakeholder management,
+and delivery ownership experience at Relevance Lab and would love to explore TPM
 opportunities at [Company].
 
 Is there a TPM opening I should apply to, or a better person to connect with?
@@ -582,8 +582,8 @@ Hi [Name],
 
 Really appreciated our chat last week. Your advice on [X] was genuinely helpful.
 
-I'm actively applying for TPM roles and noticed [Company] has an opening. If 
-you're comfortable and it's a fit, would you be open to referring me internally? 
+I'm actively applying for TPM roles and noticed [Company] has an opening. If
+you're comfortable and it's a fit, would you be open to referring me internally?
 I'll make sure my application is strong before I ask you to put your name on it.
 
 No pressure either way - Biren
@@ -883,35 +883,35 @@ You don't need to be an expert, but saying *"I'd use WSJF to sequence the work i
 
 **Sample case prompt:**
 ```
-"We're launching a new payments feature across 5 teams in 3 months. 
+"We're launching a new payments feature across 5 teams in 3 months.
 You're the TPM. Walk us through how you'd manage this program."
 ```
 
 **How to answer:**
 ```
 Step 1 - Understand the program
-"First, I'd kick off with a program charter - defining scope, success metrics, 
+"First, I'd kick off with a program charter - defining scope, success metrics,
 and non-goals. I'd align all stakeholders on these before any work starts."
 
 Step 2 - Map dependencies
-"I'd run a dependency mapping workshop with all 5 teams - identify who needs 
+"I'd run a dependency mapping workshop with all 5 teams - identify who needs
 what from whom and in what order. Put this in a RAID log."
 
 Step 3 - Build the timeline
-"Working backward from the launch date, I'd build a milestone-based timeline with 
+"Working backward from the launch date, I'd build a milestone-based timeline with
 buffer built in. No team commits to a date without engineering sign-off."
 
 Step 4 - Communication plan
-"Weekly status email to execs (RAG - Red/Amber/Green status). Daily standups 
+"Weekly status email to execs (RAG - Red/Amber/Green status). Daily standups
 with team leads for 15 min. Slack channel for async blockers."
 
 Step 5 - Risk management
-"Top risks: scope creep, team A's dependency on team C, and unknown unknowns 
-in the payments infrastructure. Mitigations: scope freeze after Week 1, 
+"Top risks: scope creep, team A's dependency on team C, and unknown unknowns
+in the payments infrastructure. Mitigations: scope freeze after Week 1,
 daily sync with team A+C, 2-week buffer before launch."
 
 Step 6 - Launch
-"Code freeze 1 week before launch. Rollback plan defined and tested. 
+"Code freeze 1 week before launch. Rollback plan defined and tested.
 Post-launch monitoring for 48 hours."
 ```
 
@@ -938,25 +938,25 @@ Post-launch monitoring for 48 hours."
 ### Your 90-Second Career Narrative (Memorize This)
 
 ```
-"I'm a Senior Software Engineer at Relevance Lab with 4.5 years of experience - 
-primarily React, TypeScript, Python, and AI/GenAI systems. But throughout 
-that time, the work I've found most energizing isn't the coding - it's the 
+"I'm a Senior Software Engineer at Relevance Lab with 4.5 years of experience -
+primarily React, TypeScript, Python, and AI/GenAI systems. But throughout
+that time, the work I've found most energizing isn't the coding - it's the
 coordination, delivery ownership, and stakeholder alignment.
 
-I've driven two significant programs end-to-end: Sally, an enterprise AI 
-assistant platform, and CDL, a GenAI-powered data lineage and discovery 
-platform - both involving multiple teams, complex dependencies, and real 
-delivery risk. My role on both was cross-functional coordinator and informal 
+I've driven two significant programs end-to-end: Sally, an enterprise AI
+assistant platform, and CDL, a GenAI-powered data lineage and discovery
+platform - both involving multiple teams, complex dependencies, and real
+delivery risk. My role on both was cross-functional coordinator and informal
 delivery owner, not just feature developer.
 
-I've also mentored junior developers, stepped in to own team operations 
-during my manager's absence, and my strongest skills - communication and 
+I've also mentored junior developers, stepped in to own team operations
+during my manager's absence, and my strongest skills - communication and
 conflict resolution - are at an 8-9 out of 10.
 
-I'm in the 3rd semester of my MBA, strengthening my business and strategic 
+I'm in the 3rd semester of my MBA, strengthening my business and strategic
 thinking.
 
-TPM is the natural fit - it gives the official title to work I'm already doing. 
+TPM is the natural fit - it gives the official title to work I'm already doing.
 I'm here to make that transition formal."
 ```
 
@@ -980,34 +980,34 @@ Every resume bullet, LinkedIn post, and interview answer should pass through thi
 
 **Q: "You're a developer, not a TPM. Why should we hire you?"**
 ```
-"Because the skills that make a great TPM - technical understanding, 
-cross-team coordination, conflict resolution, stakeholder communication - 
-I've been practicing for 4.5 years, just without the title. 
+"Because the skills that make a great TPM - technical understanding,
+cross-team coordination, conflict resolution, stakeholder communication -
+I've been practicing for 4.5 years, just without the title.
 
-I understand what engineers are actually building, which lets me have 
-credible conversations about feasibility and risk. I've led delivery 
-across multiple teams informally. And my strongest skill - conflict 
-resolution - is exactly what TPMs need daily. 
+I understand what engineers are actually building, which lets me have
+credible conversations about feasibility and risk. I've led delivery
+across multiple teams informally. And my strongest skill - conflict
+resolution - is exactly what TPMs need daily.
 
-What I don't have is the formal title. But the title is the easiest 
+What I don't have is the formal title. But the title is the easiest
 part of this transition."
 ```
 
 **Q: "Where do you see yourself in 5 years?"**
 ```
-"My target is a leadership track - Director of Engineering or VP of Programs. 
-I see TPM as the right entry point: it builds cross-functional leadership 
-experience, executive communication skills, and delivery credibility. 
+"My target is a leadership track - Director of Engineering or VP of Programs.
+I see TPM as the right entry point: it builds cross-functional leadership
+experience, executive communication skills, and delivery credibility.
 
-From TPM, I'd target a Senior TPM role within 12–18 months, then move 
-toward Technical Program Director. Long-term, I'd like to be in a 
+From TPM, I'd target a Senior TPM role within 12–18 months, then move
+toward Technical Program Director. Long-term, I'd like to be in a
 position where I'm leading large-scale programs or managing a team of TPMs."
 ```
 
 **Q: "Tell me about your biggest failure"**
 ```
 [Use a real one - do not fake this. Interviewers can tell.]
-Framework: 
+Framework:
 - Situation + what went wrong
 - What you did (even if wrong)
 - What you learned specifically
@@ -1016,31 +1016,31 @@ Framework:
 
 **Q: "How do you prioritize when everything is urgent?"**
 ```
-"I use an impact-effort matrix as a starting point - what has the highest 
-business impact and is most actionable right now. But more importantly, 
-I get clarity from the stakeholder: 'Of these 3 things, which one causes 
-the most damage if it slips?' 
+"I use an impact-effort matrix as a starting point - what has the highest
+business impact and is most actionable right now. But more importantly,
+I get clarity from the stakeholder: 'Of these 3 things, which one causes
+the most damage if it slips?'
 
-That conversation usually surfaces the real priority. Then I communicate 
-the tradeoff explicitly: 'If we do X first, Y will slip by one week. 
-Is that acceptable?' I don't just pick - I make the tradeoff visible 
+That conversation usually surfaces the real priority. Then I communicate
+the tradeoff explicitly: 'If we do X first, Y will slip by one week.
+Is that acceptable?' I don't just pick - I make the tradeoff visible
 and get alignment."
 ```
 
 **Q: "How do you handle a team that keeps missing deadlines?"**
 ```
-"First, I try to understand whether it's an estimation problem, 
-a capacity problem, or a dependency problem. Those have different fixes. 
+"First, I try to understand whether it's an estimation problem,
+a capacity problem, or a dependency problem. Those have different fixes.
 
-If it's estimation - I work with the team on more granular breakdowns 
-and add buffer before committing to stakeholders. If it's capacity - 
-I escalate to leadership to either reduce scope or add resources. 
-If it's dependencies - I get more aggressive on dependency tracking 
+If it's estimation - I work with the team on more granular breakdowns
+and add buffer before committing to stakeholders. If it's capacity -
+I escalate to leadership to either reduce scope or add resources.
+If it's dependencies - I get more aggressive on dependency tracking
 and earlier escalation of blockers.
 
-I also make sure the team isn't penalized for honest estimates. If 
-engineers feel pressure to under-estimate, the problem will repeat. 
-Creating psychological safety around timeline conversations is part of 
+I also make sure the team isn't penalized for honest estimates. If
+engineers feel pressure to under-estimate, the problem will repeat.
+Creating psychological safety around timeline conversations is part of
 the fix."
 ```
 
@@ -1052,33 +1052,33 @@ These two objections come up repeatedly in Indian product company interviews for
 
 **Q: "You're jumping from ₹9 LPA to ₹18 LPA - that's 2x. Why should we believe you're worth that?"**
 ```
-"That jump reflects the role change, not a personal pay demand. A TPM at ₹18 LPA 
-is a completely different function than a software engineer at ₹9 LPA - different 
+"That jump reflects the role change, not a personal pay demand. A TPM at ₹18 LPA
+is a completely different function than a software engineer at ₹9 LPA - different
 skills, different accountability, different impact surface.
 
-My ₹9 LPA as an SWE at a service company is the floor of what an engineer with 
-my cross-functional experience earns in that segment. TPMs at your company with 
+My ₹9 LPA as an SWE at a service company is the floor of what an engineer with
+my cross-functional experience earns in that segment. TPMs at your company with
 0–1 years of experience command ₹18–22 LPA because the role requires it.
 
-I'm not asking for a raise - I'm transitioning into a new function at market rate. 
-And I can justify every rupee of that ask: 4.5 years of technical depth, 
-demonstrated delivery ownership, conflict resolution at 8–9/10, and an MBA 
+I'm not asking for a raise - I'm transitioning into a new function at market rate.
+And I can justify every rupee of that ask: 4.5 years of technical depth,
+demonstrated delivery ownership, conflict resolution at 8–9/10, and an MBA
 in progress. Those are the primary requirements for this role."
 ```
 
 **Q: "You're from a service-based company. Product companies work very differently. How do we know you'll adapt?"**
 ```
-"I understand why this concern exists. The service company stereotype is engineers 
-who follow tickets, have no ownership, and never see the business impact of their 
+"I understand why this concern exists. The service company stereotype is engineers
+who follow tickets, have no ownership, and never see the business impact of their
 work. My experience was different.
 
-I was the cross-team coordinator, not a ticket-follower. I made priority decisions during 
-my manager's absence. I mentored junior developers and owned their onboarding 
-outcome. I introduced retrospective processes that were adopted beyond my team. 
+I was the cross-team coordinator, not a ticket-follower. I made priority decisions during
+my manager's absence. I mentored junior developers and owned their onboarding
+outcome. I introduced retrospective processes that were adopted beyond my team.
 That's product company behavior - it just happened inside a service company context.
 
-What changes when I join a product company isn't my mindset - it's that I finally 
-have the organizational structure to match the way I already work. The title is 
+What changes when I join a product company isn't my mindset - it's that I finally
+have the organizational structure to match the way I already work. The title is
 the last thing to change, not the first."
 ```
 
@@ -1139,25 +1139,25 @@ the last thing to change, not the first."
 ### Story 1: UI Overhaul Delivery (Cross-team coordination)
 
 ```
-Situation: 
-Relevance Lab was executing a significant ReactJS UI overhaul that required 
+Situation:
+Relevance Lab was executing a significant ReactJS UI overhaul that required
 coordination across a 4-person team with dependencies on design, backend, and QA.
 
-Task: 
-I was designated as the de facto coordinator for the delivery - responsible 
+Task:
+I was designated as the de facto coordinator for the delivery - responsible
 for managing timelines, resolving blockers, and ensuring the team stayed aligned.
 
-Action: 
-I ran daily 15-minute standups, maintained a dependency tracker in Jira, and 
-facilitated two specific inter-team conflicts - one between frontend and backend 
+Action:
+I ran daily 15-minute standups, maintained a dependency tracker in Jira, and
+facilitated two specific inter-team conflicts - one between frontend and backend
 over API contract ownership, and one between design and engineering over scope.
 
-For the API conflict, I organized a structured meeting where both sides presented 
-their constraints, then drove them to a written agreement (a simple API spec) that 
+For the API conflict, I organized a structured meeting where both sides presented
+their constraints, then drove them to a written agreement (a simple API spec) that
 both teams signed off on.
 
-Result: 
-The overhaul was delivered on schedule. The structured standup format I introduced 
+Result:
+The overhaul was delivered on schedule. The structured standup format I introduced
 was adopted for the next project as well. [Add any specific metric if you have one.]
 ```
 
@@ -1168,25 +1168,25 @@ was adopted for the next project as well. [Add any specific metric if you have o
 ### Story 2: Manager Absence Coverage (Ownership + leadership)
 
 ```
-Situation: 
-My manager had an unexpected 3–4 week absence, leaving the team without 
+Situation:
+My manager had an unexpected 3–4 week absence, leaving the team without
 formal leadership during an active delivery cycle.
 
-Task: 
-I stepped up to own daily team operations - standups, priority decisions, 
+Task:
+I stepped up to own daily team operations - standups, priority decisions,
 stakeholder communication - without a formal mandate or authority increase.
 
-Action: 
-I took ownership of the morning standup, triaged blockers in real-time, 
-and initiated a weekly status email to the project stakeholder summarizing 
-progress, risks, and the coming week's focus. When conflicting priorities 
-came from two different stakeholders during the absence, I escalated once 
-(to their common manager), got a decision, and communicated it clearly 
+Action:
+I took ownership of the morning standup, triaged blockers in real-time,
+and initiated a weekly status email to the project stakeholder summarizing
+progress, risks, and the coming week's focus. When conflicting priorities
+came from two different stakeholders during the absence, I escalated once
+(to their common manager), got a decision, and communicated it clearly
 to both parties and the team.
 
-Result: 
-Zero delivery slippage across the 3–4 week period. The team maintained its 
-cadence without missing a milestone. My manager acknowledged this explicitly 
+Result:
+Zero delivery slippage across the 3–4 week period. The team maintained its
+cadence without missing a milestone. My manager acknowledged this explicitly
 on return. [Mention if there was a formal recognition, even informal.]
 ```
 
@@ -1197,23 +1197,23 @@ on return. [Mention if there was a formal recognition, even informal.]
 ### Story 3: Junior Developer Mentoring (Mentoring + structured leadership)
 
 ```
-Situation: 
-Two junior developers joined the team at Relevance Lab with limited hands-on 
+Situation:
+Two junior developers joined the team at Relevance Lab with limited hands-on
 experience in our stack (ReactJS, Git workflow, code review process).
 
-Task: 
-I took on their mentoring informally - designing their ramp-up approach, 
+Task:
+I took on their mentoring informally - designing their ramp-up approach,
 conducting weekly 1:1s, and reviewing their code.
 
-Action: 
-I created a structured onboarding plan: Week 1 (environment setup + codebase tour), 
-Week 2 (first small tasks with paired review), Week 3–4 (independent tasks with 
-async review), and a feedback loop where they could flag confusing areas. I kept 
+Action:
+I created a structured onboarding plan: Week 1 (environment setup + codebase tour),
+Week 2 (first small tasks with paired review), Week 3–4 (independent tasks with
+async review), and a feedback loop where they could flag confusing areas. I kept
 the 1:1s focused on growth, not just status.
 
-Result: 
-Both became independent contributors within [X weeks], compared to [longer time 
-or no structure previously]. One of them later took on the same mentoring role 
+Result:
+Both became independent contributors within [X weeks], compared to [longer time
+or no structure previously]. One of them later took on the same mentoring role
 with a newer joiner. [Add if true.]
 ```
 
@@ -1224,19 +1224,19 @@ with a newer joiner. [Add if true.]
 ### Story 4: Cross-team Coordination (Stakeholder communication + coordination)
 
 ```
-Situation: 
-[Describe a specific cross-team coordination engagement - any project where you were the liaison 
+Situation:
+[Describe a specific cross-team coordination engagement - any project where you were the liaison
 between your team and another team or client.]
 
-Task: 
-I served as the primary interface between our engineering team and [partner team/client] 
-for [initiative], responsible for translating requirements, managing expectations, 
+Task:
+I served as the primary interface between our engineering team and [partner team/client]
+for [initiative], responsible for translating requirements, managing expectations,
 and resolving misalignments.
 
-Action: 
+Action:
 [Specific actions you took - meetings, documents, escalations, decisions made.]
 
-Result: 
+Result:
 [Specific outcome - delivered, misalignment prevented, relationship maintained.]
 ```
 
@@ -1247,18 +1247,18 @@ Result:
 ### Story 5: Technical Conflict Resolution
 
 ```
-Situation: 
-[Pick any technical disagreement you witnessed or were part of - architectural 
+Situation:
+[Pick any technical disagreement you witnessed or were part of - architectural
 choice, library selection, approach to a bug, etc.]
 
-Task: 
+Task:
 [Your role in resolving or escalating it.]
 
-Action: 
-[How you facilitated the conversation, brought in data/reasoning, or got 
+Action:
+[How you facilitated the conversation, brought in data/reasoning, or got
 alignment without taking sides.]
 
-Result: 
+Result:
 [Team moved forward, decision made, no re-litigation of the issue.]
 ```
 
@@ -1283,15 +1283,15 @@ Result:
 ```
 Recruiter: "What's your current CTC and expectations?"
 
-You: "I'm currently at ₹9 LPA. For the right opportunity, I'm looking at 
-a range of ₹18–22 LPA, which reflects the market rate for TPM roles with 
-my background. I'm flexible depending on the full comp package, growth 
+You: "I'm currently at ₹9 LPA. For the right opportunity, I'm looking at
+a range of ₹18–22 LPA, which reflects the market rate for TPM roles with
+my background. I'm flexible depending on the full comp package, growth
 potential, and role fit. What's the budget for this role?"
 ```
 
 **If they press for one number:**
 ```
-"I'd say ₹20 LPA is the target I have in mind, but I'm open to discussion 
+"I'd say ₹20 LPA is the target I have in mind, but I'm open to discussion
 once I understand the full scope and the comp structure."
 ```
 
@@ -1301,20 +1301,20 @@ once I understand the full scope and the comp structure."
 
 **Never accept on the call. Always:**
 ```
-"Thank you - I'm genuinely excited about this. Could you send the offer 
-in writing so I can review it carefully? I'd like to get back to you 
+"Thank you - I'm genuinely excited about this. Could you send the offer
+in writing so I can review it carefully? I'd like to get back to you
 by [2 business days from now]."
 ```
 
 **Negotiation script (after offer letter):**
 ```
-"I've reviewed the offer and I'm really excited about the role and the team. 
+"I've reviewed the offer and I'm really excited about the role and the team.
 
-The base of ₹X is slightly below my target of ₹Y. Based on my research on 
-market rates for TPM roles and the 4.5 years of technical + coordination 
+The base of ₹X is slightly below my target of ₹Y. Based on my research on
+market rates for TPM roles and the 4.5 years of technical + coordination
 experience I'm bringing, would it be possible to bring it to ₹Y?
 
-I want to be transparent - this isn't about another offer. I just want 
+I want to be transparent - this isn't about another offer. I just want
 to start on a number that reflects the value I plan to deliver."
 ```
 
@@ -1330,8 +1330,8 @@ to start on a number that reflects the value I plan to deliver."
 
 If you have multiple offers (even one in hand):
 ```
-"I do have another offer at ₹X in hand. [Company] is my preference because 
-of [genuine specific reason]. If you can match or get closer to ₹X, I'd 
+"I do have another offer at ₹X in hand. [Company] is my preference because
+of [genuine specific reason]. If you can match or get closer to ₹X, I'd
 commit immediately."
 ```
 
@@ -1372,12 +1372,12 @@ Indian startups frequently offer ESOPs as part of compensation. Here's how to ev
 
 **Interview debrief template:**
 ```
-Company: 
-Round: 
+Company:
+Round:
 Questions asked:
 My answers:
-Strength: 
-Weakness / what to fix: 
+Strength:
+Weakness / what to fix:
 Follow-up action:
 ```
 
@@ -1479,8 +1479,8 @@ You're already investing in an MBA, which is a far stronger signal than any indi
 
 > **The insight:** Certifications test standardized knowledge. Portfolio artifacts show how you think and deliver. Hiring managers at Indian product companies - especially fintech - care far more about demonstrated judgment than credentials you already have the technical background for.
 
-> 📁 **Your working deliverables are in this document:**  
-> - **Section 18** contains your full TPM Toolkit (6 ready-to-use templates: RAID Log, Program Charter, Status Report, Dependency Tracker, Risk Register, Executive 1-Pager)  
+> 📁 **Your working deliverables are in this document:**
+> - **Section 18** contains your full TPM Toolkit (6 ready-to-use templates: RAID Log, Program Charter, Status Report, Dependency Tracker, Risk Register, Executive 1-Pager)
 > - **Section 19** contains your Program Portfolio shells for Sally and CDL - fill in the `[Fill]` fields with real data and these become your interview ammunition
 
 ---
@@ -1580,11 +1580,11 @@ Message template:
 ```
 Hi [Name],
 
-I've been a TPM at [Company] for about a year now and I'm working toward 
-a transition into Technical Product Management. I saw your journey went 
+I've been a TPM at [Company] for about a year now and I'm working toward
+a transition into Technical Product Management. I saw your journey went
 through a similar path. Would you have 15 minutes to share your experience?
 
- -  Biren
+  -  Biren
 ```
 
 ---
@@ -1986,7 +1986,7 @@ Budget allocated (if any): ₹___________
 | D-001 | Dep  | [Team A needs X from Team B]       | [Team B Lead]| On Track    | H/M/L          | [Agreement in place?]            | YYYY-MM-DD | YYYY-MM-DD   |
 | D-002 | Dep  | [Team A needs X from Team B]       | [Team B Lead]| At Risk     | H              | [What's the delay? Who's aware?] | YYYY-MM-DD | YYYY-MM-DD   |
 
-**Status:** `Open → In Progress → Resolved → Closed` | Special: `Monitoring`, `Escalated`, `Blocked`  
+**Status:** `Open → In Progress → Resolved → Closed` | Special: `Monitoring`, `Escalated`, `Blocked`
 **Type:** `Risk` = might happen | `Assm` = assumed true | `Issue` = already happened | `Dep` = need from another team
 
 ---
@@ -2130,7 +2130,7 @@ to know right now?]
 Example:
 "The platform migration is 70% complete and on schedule for
 the April 15 launch. One dependency - cloud infra provisioning
- -  is 4 days delayed but will not impact launch if resolved
+  -  is 4 days delayed but will not impact launch if resolved
 by EOW."
 
 ═══════════════════════════════════════════════════════════
@@ -2303,9 +2303,9 @@ KEY METRICS
 
 #### Challenge 3: [Add a third if you have one]
 
-**What happened:** **[Fill]**  
-**What YOU did:** **[Fill]**  
-**What you decided:** **[Fill]**  
+**What happened:** **[Fill]**
+**What YOU did:** **[Fill]**
+**What you decided:** **[Fill]**
 **Outcome:** **[Fill]**
 
 ---
@@ -2437,9 +2437,9 @@ KEY METRICS
 
 #### Challenge 3: [Add if relevant]
 
-**What happened:** **[Fill]**  
-**What YOU did:** **[Fill]**  
-**What you decided:** **[Fill]**  
+**What happened:** **[Fill]**
+**What YOU did:** **[Fill]**
+**What you decided:** **[Fill]**
 **Outcome:** **[Fill]**
 
 ---

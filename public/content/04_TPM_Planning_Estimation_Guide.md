@@ -1,7 +1,7 @@
 # 📐 TPM Planning & Estimation: A Practical Guide
 
-> **Audience:** Beginners new to TPM who need to understand and apply planning and estimation frameworks immediately  
-> **Purpose:** Build practical skills in 8 essential planning and estimation methodologies  
+> **Audience:** Beginners new to TPM who need to understand and apply planning and estimation frameworks immediately
+> **Purpose:** Build practical skills in 8 essential planning and estimation methodologies
 > **Read time per section:** ~12–18 minutes | **Total:** ~100–140 minutes
 
 ---
@@ -1222,9 +1222,9 @@ A(5d) ─── C(10d)                      ├── J(2d)
 3. **The reward system (D) and legal review (F) have significant float.** They're not urgent-but if they slip too much, they could become critical.
 
 4. **Actionable decision:** Ravi should:
-   - Allocate the strongest engineers to tasks B, E, and G (the critical path)
-   - Monitor float consumption for tasks C, D, H, F, and I weekly
-   - If any task has consumed more than 50% of its float, escalate
+    - Allocate the strongest engineers to tasks B, E, and G (the critical path)
+    - Monitor float consumption for tasks C, D, H, F, and I weekly
+    - If any task has consumed more than 50% of its float, escalate
 
 ## Case Study
 

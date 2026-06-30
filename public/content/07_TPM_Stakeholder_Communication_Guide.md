@@ -1,7 +1,7 @@
 # 🤝 TPM Stakeholder Management & Executive Communication: A Practical Field Guide
 
-> **Audience:** TPMs new to stakeholder management who understand program fundamentals but need practical guidance on the human and political dimensions  
-> **Purpose:** Build mastery in 5 core stakeholder and communication frameworks  
+> **Audience:** TPMs new to stakeholder management who understand program fundamentals but need practical guidance on the human and political dimensions
+> **Purpose:** Build mastery in 5 core stakeholder and communication frameworks
 > **Read time per framework:** ~20–25 minutes | **Total:** ~100–125 minutes
 
 ---
@@ -380,7 +380,7 @@ The 3-sentence structure works because:
 
 **Situation:** Your program is on track. No major issues. You send your weekly executive update:
 
-**To:** VP of Engineering  
+**To:** VP of Engineering
 **Subject:** [Weekly Update] Customer Portal Redesign - 🟢 Green
 
 > **Status:** The Customer Portal program is on track for the September 15 launch. All 6 workstreams are progressing within their sprint commitments.
@@ -398,7 +398,7 @@ The 3-sentence structure works because:
 
 **Situation:** A critical vendor dependency is slipping. You have a mitigation plan but need a decision.
 
-**To:** VP of Engineering  
+**To:** VP of Engineering
 **Subject:** [Weekly Update] Payment Integration - 🟡 Amber
 
 > **Status:** The Payment Integration program is on track for the June 15 launch, but a vendor dependency has shifted from green to amber.
@@ -418,7 +418,7 @@ The 3-sentence structure works because:
 
 **Situation:** A critical security finding threatens the launch timeline. You need the VP to make a decision today.
 
-**To:** VP of Engineering  
+**To:** VP of Engineering
 **Subject:** [URGENT] Payment Integration - 🔴 Red - Launch at Risk
 
 > **Status:** The Payment Integration program is red. A security finding in the new payment processing flow requires 3–4 weeks of remediation work, which would push our June 15 launch date.

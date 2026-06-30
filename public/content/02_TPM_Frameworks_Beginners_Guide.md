@@ -1,7 +1,7 @@
 # 🏗️ TPM Frameworks Guide: A Beginner's Foundation
 
-> **Audience:** Complete beginners to project management (non-technical background)  
-> **Purpose:** Build foundational knowledge of 9 essential TPM frameworks with practical strategies for applying them  
+> **Audience:** Complete beginners to project management (non-technical background)
+> **Purpose:** Build foundational knowledge of 9 essential TPM frameworks with practical strategies for applying them
 > **Read time per framework:** ~10–15 minutes | **Total:** ~90–120 minutes
 
 ---

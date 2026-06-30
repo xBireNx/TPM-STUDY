@@ -1,8 +1,8 @@
 # 🛡️ TPM Risk & Dependency Management: A Complete Field Guide
 
-> **Audience:** Beginners entering the TPM role (little to no TPM experience)  
-> **Purpose:** Build mastery in 5 core domains of risk and dependency management  
-> **Read time per domain:** ~20–25 minutes | **Total:** ~100–125 minutes  
+> **Audience:** Beginners entering the TPM role (little to no TPM experience)
+> **Purpose:** Build mastery in 5 core domains of risk and dependency management
+> **Read time per domain:** ~20–25 minutes | **Total:** ~100–125 minutes
 > **Format:** Each domain = Framework → Realistic Example → Case Study → Implementation Playbook
 
 ---

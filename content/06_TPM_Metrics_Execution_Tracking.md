@@ -1,7 +1,7 @@
 # 📊 TPM Metrics & Execution Tracking: A Practical Guide
 
-> **Audience:** Beginners new to TPM metrics, frameworks, and execution tracking  
-> **Purpose:** Build foundational knowledge of 6 essential metrics frameworks with practical applications  
+> **Audience:** Beginners new to TPM metrics, frameworks, and execution tracking
+> **Purpose:** Build foundational knowledge of 6 essential metrics frameworks with practical applications
 > **Read time per framework:** ~15–20 minutes | **Total:** ~90–120 minutes
 
 ---
@@ -789,7 +789,7 @@ While velocity tracks effort (story points), throughput tracks item count:
 | 5 | 10 | 4.3 |
 | 6 | 11 | 4.2 |
 
-**Average throughput:** 9.8 stories/sprint  
+**Average throughput:** 9.8 stories/sprint
 **Average story size:** 4.3 points
 
 ### Step 4: Visualize Velocity Trends

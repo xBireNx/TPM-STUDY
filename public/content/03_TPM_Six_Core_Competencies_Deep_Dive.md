@@ -1,8 +1,8 @@
 # 🎯 The Six Core TPM Competencies: A Comprehensive Educational Guide
 
-> **Author:** Expert TPM Practitioner & Instructor | 15+ Years Experience  
-> **Audience:** Practitioners new to TPM or transitioning into the role  
-> **Purpose:** Build mastery in the six competencies that define outstanding Technical Program Managers  
+> **Author:** Expert TPM Practitioner & Instructor | 15+ Years Experience
+> **Audience:** Practitioners new to TPM or transitioning into the role
+> **Purpose:** Build mastery in the six competencies that define outstanding Technical Program Managers
 > **Read time per competency:** ~20–30 minutes | **Total:** ~2–3 hours
 
 ---
@@ -153,9 +153,9 @@ She spends the next day doing four things:
 2. **Impact assessment:** She maps the dependency chain. Fraud detection depends on the ML API integration, which hasn't been scoped. The API's documentation mentions a 48-hour batch processing window, meaning real-time fraud detection isn't possible without significant re-architecture. The "two weeks" estimate was based on an optimistic reading of the API docs.
 
 3. **Tradeoff preparation:** She prepares three clear options for the decision-makers:
-   - **Option A:** Add fraud detection → Launch delayed by 3–4 weeks → Regulatory deadline at risk.
-   - **Option B:** Add fraud detection, remove bank account linking from MVP → Launch on time, but core feature missing → Regulatory compliance still partial.
-   - **Option C:** Defer fraud detection to Phase 2 (post-launch) → Launch on time, fully compliant, fraud detection scoped properly in the next quarter.
+    - **Option A:** Add fraud detection → Launch delayed by 3–4 weeks → Regulatory deadline at risk.
+    - **Option B:** Add fraud detection, remove bank account linking from MVP → Launch on time, but core feature missing → Regulatory compliance still partial.
+    - **Option C:** Defer fraud detection to Phase 2 (post-launch) → Launch on time, fully compliant, fraud detection scoped properly in the next quarter.
 
 4. **Stakeholder alignment call:** She schedules a 30-minute call with the CEO, the PM, and the engineering lead. She walks through the three options in five minutes. She doesn't recommend Option C-she presents facts and lets the stakeholders decide.
 

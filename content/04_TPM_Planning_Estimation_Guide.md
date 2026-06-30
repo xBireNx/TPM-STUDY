@@ -1,7 +1,7 @@
 # 📐 TPM Planning & Estimation: A Practical Guide
 
-> **Audience:** Beginners new to TPM who need to understand and apply planning and estimation frameworks immediately  
-> **Purpose:** Build practical skills in 8 essential planning and estimation methodologies  
+> **Audience:** Beginners new to TPM who need to understand and apply planning and estimation frameworks immediately
+> **Purpose:** Build practical skills in 8 essential planning and estimation methodologies
 > **Read time per section:** ~12–18 minutes | **Total:** ~100–140 minutes
 
 ---
@@ -127,7 +127,7 @@ Create a visual representation. Common formats include:
 Q1 (Jan-Mar)        | Q2 (Apr-Jun)       | Q3 (Jul-Sep)      | Q4 (Oct-Dec)
 Brazil Launch [=====]                                   |
 Mexico Launch                          |==================|
-Onboarding Redesign  |===============]                  |
+Onboarding Redesign  |===============|                  |
 PIX Integration      |================|                 |
 SOC-2 Compliance                       |=================|
 ```
@@ -190,7 +190,7 @@ Infra Scaling [==]                  |                 |
 EHR Integration    |===================|             |
 Scheduling                          |========|       |
 Prescription Delivery                 |==============|
-Patient App                                           |==============]
+Patient App                                           |==============|
 ```
 
 **Step 3 - Address the capacity constraint.** You quickly notice a problem: prescriptive delivery and EHR integration overlap in Q2–Q3 with only 3 teams available. You can't do both simultaneously at full speed. You adjust:
@@ -1222,9 +1222,9 @@ A(5d) ─── C(10d)                      ├── J(2d)
 3. **The reward system (D) and legal review (F) have significant float.** They're not urgent-but if they slip too much, they could become critical.
 
 4. **Actionable decision:** Ravi should:
-   - Allocate the strongest engineers to tasks B, E, and G (the critical path)
-   - Monitor float consumption for tasks C, D, H, F, and I weekly
-   - If any task has consumed more than 50% of its float, escalate
+    - Allocate the strongest engineers to tasks B, E, and G (the critical path)
+    - Monitor float consumption for tasks C, D, H, F, and I weekly
+    - If any task has consumed more than 50% of its float, escalate
 
 ## Case Study
 
